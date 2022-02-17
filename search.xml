@@ -4,11 +4,11 @@
   
     
     <entry>
-      <title>test</title>
+      <title>markdown文件语法</title>
       <link href="/2022/02/12/test/"/>
       <url>/2022/02/12/test/</url>
       
-        <content type="html"><![CDATA[<p>Welcome to Hexo</p>]]></content>
+        <content type="html"><![CDATA[<h1 id="学习如何写markdown文件"><a href="#学习如何写markdown文件" class="headerlink" title="学习如何写markdown文件"></a>学习如何写markdown文件</h1><p>Welcome to Hexo</p>]]></content>
       
       
       
