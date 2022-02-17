@@ -3,14 +3,14 @@
   <title>王龙为的博客</title>
   
   <subtitle>Welcome To Join The Conference</subtitle>
-  <link href="http://example.com/atom.xml" rel="self"/>
+  <link href="http://wanglongwei.com/atom.xml" rel="self"/>
   
-  <link href="http://example.com/"/>
-  <updated>2022-02-17T16:17:23.554Z</updated>
-  <id>http://example.com/</id>
+  <link href="http://wanglongwei.com/"/>
+  <updated>2022-02-17T16:31:53.659Z</updated>
+  <id>http://wanglongwei.com/</id>
   
   <author>
-    <name>John Doe</name>
+    <name>Wang Longwei</name>
     
   </author>
   
@@ -18,10 +18,10 @@
   
   <entry>
     <title>markdown文件语法</title>
-    <link href="http://example.com/2022/02/12/test/"/>
-    <id>http://example.com/2022/02/12/test/</id>
+    <link href="http://wanglongwei.com/2022/02/12/test/"/>
+    <id>http://wanglongwei.com/2022/02/12/test/</id>
     <published>2022-02-12T13:02:41.000Z</published>
-    <updated>2022-02-17T16:17:23.554Z</updated>
+    <updated>2022-02-17T16:31:53.659Z</updated>
     
     
       
@@ -39,8 +39,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://example.com/2022/02/11/hellonullworld/"/>
-    <id>http://example.com/2022/02/11/hellonullworld/</id>
+    <link href="http://wanglongwei.com/2022/02/11/hellonullworld/"/>
+    <id>http://wanglongwei.com/2022/02/11/hellonullworld/</id>
     <published>2022-02-10T16:57:22.822Z</published>
     <updated>1985-10-26T08:15:00.000Z</updated>
     
